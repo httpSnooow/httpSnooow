@@ -18,9 +18,17 @@ I bridge the gap between **Software Engineering** and **Cybersecurity**, ensurin
 ### Certifications
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/EF_SET-English_Certificate_(C1_Advanced)-0054a6?style=for-the-badge&logo=ef&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-Certified_Professional-018BFF?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <a href="https://www.credly.com/badges/a1291134-149f-4dac-85de-cc1f1340d107/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+
+  <a href="https://cert.efset.org/pt/V2kzaU" target="_blank">
+    <img src="https://img.shields.io/badge/EF_SET-English_Certificate_(C1_Advanced)-0054a6?style=for-the-badge&logo=ef&logoColor=white" />
+  </a>
+
+  <a href="https://graphacademy.neo4j.com/c/76ed26aa-1790-49dd-8a48-9c29e2690290/" target="_blank">
+    <img src="https://img.shields.io/badge/Neo4j-Certified_Professional-018BFF?style=for-the-badge&logo=neo4j&logoColor=white" />
+  </a>
 </div>
 
 ## 🛠️ Tech Stack
