@@ -1,13 +1,12 @@
-<h1 align="left">
-  Hi there, I'm Guilherme Eduardo!
-  <a href="https://www.linkedin.com/in/guilherme-eduardo-deus" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn" vertical-align="middle" />
-  </a>
-  <a href="mailto:gededeus@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" vertical-align="middle" />
-  </a>
-</h1>
+# Hi there, I'm Guilherme Eduardo! 👋
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/gedo" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
+  <a href="mailto:gededeus@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+</div>
 
 I'm an **Information Systems** student at **Goiás State University (UEG)** with a dual passion: building robust, scalable backend systems and breaking them to make them stronger.
 
