@@ -80,7 +80,7 @@ I bridge the gap between **Software Engineering** and **Cybersecurity**, ensurin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=httpSnooow&show_icons=true&theme=dark&hide_title=true" height="160" />&nbsp;&nbsp;<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=httpSnooow&layout=compact&theme=dark" height="160" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=httpSnooow&show_icons=true&theme=dark&hide_title=true" height="160" />&nbsp;&nbsp;<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=httpSnooow&layout=compact&theme=dark&cache_seconds=1800" height="160" />
 </p>
 
 <br>
