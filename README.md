@@ -86,7 +86,7 @@ I bridge the gap between **Software Engineering** and **Cybersecurity**, ensurin
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=httpSnooow&show_icons=true&theme=dark" width="100%" />
     </td>
     <td width="49%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=httpSnooow&layout=compact&theme=dark" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=httpSnooow&layout=compact&theme=dark&cache_seconds=1800" width="100%" />
     </td>
   </tr>
 </table>
