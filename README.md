@@ -32,13 +32,13 @@ I bridge the gap between **Software Engineering** and **Cybersecurity**, ensurin
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/Back--end:-000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Programming_Languages:-000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
+<br/>
+
+<img src="https://img.shields.io/badge/Frameworks_&_Libraries:-000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge" /> <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge&logoColor=white" />
 <br/>
 
 <img src="https://img.shields.io/badge/Databases:-000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white" />
-<br/>
-
-<img src="https://img.shields.io/badge/Front--end:-000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
 <br/>
 
 <img src="https://img.shields.io/badge/CyberSecurity:-000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=target&logoColor=white" /> <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -54,7 +54,7 @@ I bridge the gap between **Software Engineering** and **Cybersecurity**, ensurin
 ### 🌍 My Languages
 
 * Portuguese (Native)
-* English (Advanced)
+* English (C1-Advanced)
 
 ---
 
@@ -71,9 +71,7 @@ I bridge the gap between **Software Engineering** and **Cybersecurity**, ensurin
 ## Current Focus
 
 - **Competitive Programming:** Mastering algorithms via LeetCode & Codeforces (C++).
-- **Advanced Java:** Diving into Spring Security & Microservices architecture.
 - **Offensive Security:** Improving Pentesting skills on Hack The Box & TryHackMe.
-- **Full-Stack:** Exploring The Odin Project.
 
 ---
 
