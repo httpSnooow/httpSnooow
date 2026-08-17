@@ -78,17 +78,29 @@ Sharpening algorithms daily on LeetCode/Codeforces (C++) and actively hacking on
 
 <p align="center">
   <a href="https://github.com/httpSnooow/java-framework-orm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=httpSnooow&repo=java-framework-orm&theme=tokyonight&hide_border=true" alt="Custom ORM Framework" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=httpSnooow&repo=java-framework-orm&theme=tokyonight&hide_border=true" alt="Custom ORM Framework" />
   </a>
   <a href="https://github.com/httpSnooow/java-multithread-chat-socket">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=httpSnooow&repo=java-multithread-chat-socket&theme=tokyonight&hide_border=true" alt="Multithreaded Chat System" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=httpSnooow&repo=java-multithread-chat-socket&theme=tokyonight&hide_border=true" alt="Multithreaded Chat System" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/httpSnooow/google-cybersecurity-python-automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=httpSnooow&repo=google-cybersecurity-python-automation&theme=tokyonight&hide_border=true" alt="Google Cybersecurity Portfolio" />
-  </a>
-</p>
+
+---
+
+### 🔐 Google Cybersecurity Professional — Portfolio
+
+Hands-on labs from the **[Google Cybersecurity Professional](https://www.credly.com/badges/a1291134-149f-4dac-85de-cc1f1340d107/linked_in_profile)** certification, covering the full SOC analyst workflow — from Linux hardening to network forensics, vulnerability assessment, and Python automation.
+
+| Repository | Focus area |
+|:---|:---|
+| [**python-automation**](https://github.com/httpSnooow/google-cybersecurity-python-automation) | File parsing, log analysis & access control automation in Python |
+| [**incident-handler-journal**](https://github.com/httpSnooow/google-cybersecurity-incident-handler-journal) | Incident documentation, timelines & response playbooks |
+| [**network-incident**](https://github.com/httpSnooow/google-cybersecurity-network-incident) | Network traffic analysis & incident investigation |
+| [**audit-task**](https://github.com/httpSnooow/google-cybersecurity-audit-task) | Security audit, risk assessment & compliance controls |
+| [**vulnerability-assessment**](https://github.com/httpSnooow/google-cybersecurity-vulnerability-assessment) | Vulnerability scanning, CVSS scoring & remediation report |
+| [**linux-permissions**](https://github.com/httpSnooow/google-cybersecurity-linux-permissions) | Linux file permissions hardening & privilege management |
+| [**sql-filters**](https://github.com/httpSnooow/google-cybersecurity-sql-filters) | SQL queries for security investigations & log filtering |
+
 
 ---
 
