@@ -141,4 +141,4 @@ Hands-on labs from the **[Google Cybersecurity Professional](https://www.credly.
 </p>
 
 <!-- Footer Banner -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0d1117&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:1a1b27,100:0d1117&height=120&section=footer)
