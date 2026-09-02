@@ -55,8 +55,8 @@ Sharpening algorithms daily on LeetCode/Codeforces (C++) and actively hacking on
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://raw.githubusercontent.com/httpSnooow/httpSnooow/main/assets/badges/aws-badge.svg)
+![Azure](https://raw.githubusercontent.com/httpSnooow/httpSnooow/main/assets/badges/azure-badge.svg)
 
 **Security**
 
@@ -69,7 +69,7 @@ Sharpening algorithms daily on LeetCode/Codeforces (C++) and actively hacking on
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure DevOps](https://raw.githubusercontent.com/httpSnooow/httpSnooow/main/assets/badges/azuredevops-badge.svg)
 
 </div>
 
