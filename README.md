@@ -81,8 +81,8 @@ Sharpening algorithms daily on LeetCode/Codeforces (C++) and actively hacking on
   <a href="https://github.com/httpSnooow/java-framework-orm">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=httpSnooow&repo=java-framework-orm&theme=tokyonight&hide_border=true" alt="Custom ORM Framework" />
   </a>
-  <a href="https://github.com/httpSnooow/java-multithread-chat-socket">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=httpSnooow&repo=java-multithread-chat-socket&theme=tokyonight&hide_border=true" alt="Multithreaded Chat System" />
+  <a href="https://github.com/httpSnooow/chess-multiplayer-api">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=httpSnooow&repo=chess-multiplayer-api&theme=tokyonight&hide_border=true" alt="Chess Multiplayer API" />
   </a>
 </p>
 
